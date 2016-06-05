@@ -1,3 +1,5 @@
+As per my journal, this code is for verification.
+
 <li>Integer diam gravida ultrices tortor tempus</li>
 <li>Lectus dui elementum venenatis nisl morbi fringilla lacus egestas, quis magna per taciti mauris posuere</li>
 <li>Vulputate rutrum condimentum habitant dictum curabitur ornare cubilia pharetra</li>
